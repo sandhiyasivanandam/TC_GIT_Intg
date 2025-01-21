@@ -9,7 +9,7 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{AA9DF211-189A-4241-B745-5AF54E5A4829}" version="14">
 		<children>
-			<testItem name="Test1" key="{D15F1F85-0BFA-45A6-B949-14109C59E4F3}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{84AAE790-7E60-45F8-813C-4A9E921B3533}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="Test1" key="{811F6C98-D64D-4184-9444-812744DE745C}" group="False" parallel="False" enabled="True" load="False" testMoniker="KDT\{84AAE790-7E60-45F8-813C-4A9E921B3533}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children />

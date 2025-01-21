@@ -156,6 +156,24 @@
 							</Child>
 						</Children>
 					</Child>
+					<Child Name="brave" Key="{BED59055-D593-49D2-9F97-A2BAB0CCE988}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="brave" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndChrome_WidgetWin_1" Key="{CBC4FA2A-9ACC-4394-818F-5D3F5F237009}">
+								<Image FileName="1040549694" Left="-8" Top="-8" Right="1928" Bottom="1040" />
+								<TypeInfo Item0="{45A63F21-A4C6-400F-AD8D-B3B6152383AA}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
 				</Children>
 			</Child>
 		</Children>
@@ -179,6 +197,9 @@
 			<Child Name="dlgConfirmation" Owner="{0356D9F8-7AA0-4D85-AE7C-DA31E5D14D3D}">
 				<Child Name="btnNo" Owner="{13BE321F-34DA-412F-853E-C2EDBE433B65}" />
 			</Child>
+		</Child>
+		<Child Name="brave" Owner="{BED59055-D593-49D2-9F97-A2BAB0CCE988}">
+			<Child Name="wndChrome_WidgetWin_1" Owner="{CBC4FA2A-9ACC-4394-818F-5D3F5F237009}" />
 		</Child>
 	</LogicalNodes>
 </Root>
